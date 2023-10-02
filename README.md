@@ -9,5 +9,9 @@ https://www.youtube.com/watch?v=mWmGNsqWFvA&ab_channel=IUObservatory
 
 4. MKIDS talk from Mazin (UCSB)
    https://www.youtube.com/watch?v=OpMs2TexRFs&ab_channel=CfAColloquium
+
+5. MKIDs Phil Mauskopf - Arizona State University
+   https://www.youtube.com/watch?v=hFdB_ESO5qY&ab_channel=AstronomyIllinois
+
    
 
