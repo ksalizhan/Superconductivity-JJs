@@ -13,5 +13,10 @@ https://www.youtube.com/watch?v=mWmGNsqWFvA&ab_channel=IUObservatory
 5. MKIDs Phil Mauskopf - Arizona State University
    https://www.youtube.com/watch?v=hFdB_ESO5qY&ab_channel=AstronomyIllinois
 
+6. Broadband KIDs, J. Austermann - NIST Boulder
+   Broadband kinetic inductance detectors for far-IR observations
+   https://doi.org/10.1117/12.2630672
+   
+
    
 
