@@ -5,3 +5,7 @@ Solid State Physics Fundamentals, Oxford University, Prof. Steven Simon
 3. MKIDS - Kinetic Inductance Detectors for Optical/NIR Astronomy - Kieran O'Brien
 https://www.youtube.com/watch?v=mWmGNsqWFvA&ab_channel=IUObservatory
 
+4. MKIDS talk from Mazin (UCSB)
+   https://www.youtube.com/watch?v=OpMs2TexRFs&ab_channel=CfAColloquium
+   
+
