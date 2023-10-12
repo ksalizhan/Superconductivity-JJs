@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=mWmGNsqWFvA&ab_channel=IUObservatory
 6. Broadband KIDs, J. Austermann - NIST Boulder
    Broadband kinetic inductance detectors for far-IR observations
    https://doi.org/10.1117/12.2630672
-7. MKIDs, Jianhao Gao Thesis
+7. MKIDs, Jianhao Gao Thesis, Caltech 2008
    https://thesis.library.caltech.edu/2530/1/thesismain_0610.pdf
    
    
