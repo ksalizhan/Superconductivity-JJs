@@ -2,7 +2,8 @@
 1st MKID devices were proposed and made at Jet Propulsion Laboratory & Caltech, Pasadena CA in 1999. Since then, several groups and Industrial companies, NASA & NIST in particular, worked on these for telescope and detection purposes. 
 1. For overall summary, Prof. Zmuidzinas review paper can be a good starting point:
    https://www.nature.com/articles/nature02037
-
+   https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-020911-125022 Superconducting Microresonators: Physics and Applications
+   
 3. Applied Superconductivity - MIT Course, Prof. Terry Orlando
 https://ocw.mit.edu/courses/6-763-applied-superconductivity-fall-2005/pages/lecture-notes/
 
