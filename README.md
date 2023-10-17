@@ -1,3 +1,7 @@
+JJs
+1. Excellent Book, 2019 all about JJs
+   https://link.springer.com/chapter/10.1007/978-3-030-20726-7_17
+   
 # MKIDs
 1st MKID devices were proposed and made at Jet Propulsion Laboratory & Caltech, Pasadena CA in 1999. Since then, several groups and Industrial companies, NASA & NIST in particular, worked on these for telescope and detection purposes. 
 1. For overall summary, Prof. Zmuidzinas review paper can be a good starting point:
